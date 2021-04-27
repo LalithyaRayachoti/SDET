@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="72.711224">
+<testcase classname="Gooogle Functionality" name="Signup Functionality" time="72.711224">
+<system-out><![CDATA[Given launch the broswer and navigate to elearning url......................passed
+Then user is on homepage and signup link should be displayed................passed
+When user click on signup link..............................................passed
+Then user navigate to the Registration page.................................passed
+And user enters all the mandatory information...............................passed
+And user click on register..................................................passed
+Then user should be able to see the successful registration message.........passed
+When user clicks on profile dropdown........................................passed
+Then user should be able to see to his registered email id..................passed
+When user click on homepage.................................................passed
+And user click on compose...................................................passed
+And user enters data for  send to...........................................passed
+And user enters data for subject............................................passed
+And user enters message in message box......................................passed
+And user clicks on send message button......................................passed
+Then user should be able to see the acknowledgement.........................passed
+]]></system-out>
+</testcase>
+</testsuite>
